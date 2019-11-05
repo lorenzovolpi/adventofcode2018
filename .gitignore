@@ -2,5 +2,6 @@
 *.sln
 *.vcxproj*
 Debug*
-source/lesson*/*/*.vcxproj*
-source/lesson*/*/Debug*
+source/day*/*.vcxproj*
+source/day*/Debug*
+source/day*/data*
