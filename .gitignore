@@ -5,3 +5,4 @@ Debug*
 source/day*/*.vcxproj*
 source/day*/Debug*
 source/day*/data*
+Makefile
